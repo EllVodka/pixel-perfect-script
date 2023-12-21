@@ -5,7 +5,8 @@ scriptPixelPerfect add data set in modelsList in database
 ## Prerequisites
 
 - GoLang SDK (^1.20.2)
-- MSSQL Server
+- MySQL Database
+- Database with all table create with symfony project
 
 ## Config
 
