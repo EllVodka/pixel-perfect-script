@@ -1,0 +1,8 @@
+{
+    "server": "serverName",
+    "database": "databaseName",
+    "user": "User",
+    "password": "Password",
+    "port": 3306,
+    "timeout": "30"
+}
